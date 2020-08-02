@@ -1,5 +1,5 @@
 ---
-title: "Pascual Lino"
+title: "Pascal Repond"
 headless: "true"
 ---
-Bojorre
+Spécialiste HES en information documentaire
