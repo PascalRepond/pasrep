@@ -1,5 +1,5 @@
 ---
-title: "Pascal Repond"
+title: "Pascal R."
 headless: "true"
 ---
-Spécialiste HES en information documentaire
+quasi-Spécialiste ID
