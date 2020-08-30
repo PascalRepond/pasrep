@@ -32,7 +32,7 @@ DefaultContentLanguage           = "fr"                    # Default language fo
 
     # Share buttons on blog post pages
     [params.share]
-        twitter                  = true
+        twitter                  = false
         pinterest                = false
 
     # Social icons appear in introduction and contact section. Add as many more as you like.

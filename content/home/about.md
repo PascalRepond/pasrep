@@ -3,9 +3,12 @@ title: "A propos"
 image: "photo.jpg"
 weight: 0
 ---
-Bonjour, bienvenue sur mon site. Pour l'instant, y a rien. A plus les amis !
+Pascal Repond, né en Suisse 1992, fasciné par les nouvelles technologies et les idéologies des communs, du libre et du partage. 
 
-### Titre
+## Mes centres d'intérêt
 
-* Adjeu
-* Sa joue ?
+* Cultures numériques, informatique, programmation
+* Sciences et vulgarisation
+* Langue, linguistique, littérature et communication
+* Musique
+* Sport
