@@ -6,7 +6,7 @@ baseURL                          = ""   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "fr"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics                 = "UA-150913324-2"                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
